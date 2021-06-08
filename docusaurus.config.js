@@ -2,13 +2,13 @@
 module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://ashokfynd.github.io/searchlight',
+  baseUrl: '/searchlight/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ashokfynd', // Usually your GitHub org/user name.
+  projectName: 'searchlight', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
