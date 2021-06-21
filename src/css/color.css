@@ -1,0 +1,19 @@
+.hero--primary {
+  --ifm-hero-text-color: #ffffff !important;
+}
+
+.navbar__link:hover, .navbar__link--active {
+  color: #ffffff !important;
+}
+
+.menu__link--active {
+  color: #ffffff !important;
+}
+
+.navbar {
+  background-color: #ffffff;
+}
+
+.hero--primary {
+  --ifm-hero-text-color: #9f3838 !important;
+}
