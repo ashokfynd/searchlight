@@ -43,23 +43,23 @@ module.exports = {
           items: [
             {
               label: 'Getting Started',
-              to: '/docs/introduction',
+              to: '/docs/introduction/what-is-fp',
             },
             {
               label: 'FAQ',
-              to: '/docs/introduction',
+              to: '/docs/introduction/what-is-fp',
             },
             {
               label: 'Blogs',
-              to: '/docs/introduction',
+              to: '/docs/introduction/what-is-fp',
             },
             {
               label: 'Privacy & Terms',
-              to: '/docs/introduction',
+              to: '/docs/introduction/what-is-fp',
             },
             {
               label: 'Media',
-              to: '/docs/introduction',
+              to: '/docs/introduction/what-is-fp',
             }
           ],
         },
