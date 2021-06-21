@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 62 (101010) - https://sketch.com -->
+    <title>3C4D8E2D-C04B-4F6E-BBCA-BB221CD24A16</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 40 40 40 40 0 0 0"></polygon>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-692.000000, -1701.000000)">
+            <g id="Group-6" transform="translate(372.000000, 1333.000000)">
+                <g id="POS" transform="translate(300.000000, 338.000000)">
+                    <g id="Group-24" transform="translate(20.000000, 30.000000)">
+                        <g id="Group-23">
+                            <g id="Logo_POS">
+                                <circle id="Oval" fill-opacity="0.1" fill="#5C6BDD" cx="40" cy="40" r="40"></circle>
+                                <g id="Group-13" transform="translate(20.000000, 20.000000)">
+                                    <path d="M25.8333333,39.1666667 L2.5,39.1666667 C1.58,39.1666667 0.833333333,38.42 0.833333333,37.5 L0.833333333,2.5 C0.833333333,1.58 1.58,0.833333333 2.5,0.833333333 L25.8333333,0.833333333 C26.7533333,0.833333333 27.5,1.58 27.5,2.5 L27.5,37.5 C27.5,38.42 26.7533333,39.1666667 25.8333333,39.1666667 Z" id="Stroke-1" stroke="#5C6BDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="Clip-4"></g>
+                                    <polygon id="Stroke-3" stroke="#5C6BDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="5.83333333 15.8333333 22.5 15.8333333 22.5 4.16666667 5.83333333 4.16666667"></polygon>
+                                    <path d="M37.5,30.8333333 L27.5,30.8333333 L27.5,4.16666667 L37.5,4.16666667 C38.42,4.16666667 39.1666667,4.91333333 39.1666667,5.83333333 L39.1666667,29.1666667 C39.1666667,30.0866667 38.42,30.8333333 37.5,30.8333333 Z" id="Stroke-5" stroke="#5C6BDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                                    <line x1="34.1666667" y1="4.16666667" x2="34.1666667" y2="30.8333333" id="Stroke-6" stroke="#5C6BDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></line>
+                                    <polyline id="Stroke-7" stroke="#5C6BDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="4.16666667 20.8333333 7.5 20.8333333 7.5 24.1666667"></polyline>
+                                    <polyline id="Stroke-8" stroke="#5C6BDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="12.5 20.8333333 15.8333333 20.8333333 15.8333333 24.1666667"></polyline>
+                                    <polyline id="Stroke-9" stroke="#5C6BDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="20.8333333 20.8333333 24.1666667 20.8333333 24.1666667 24.1666667"></polyline>
+                                    <polyline id="Stroke-10" stroke="#5C6BDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="4.16666667 30.8333333 7.5 30.8333333 7.5 34.1666667"></polyline>
+                                    <polyline id="Stroke-11" stroke="#5C6BDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="12.5 30.8333333 15.8333333 30.8333333 15.8333333 34.1666667"></polyline>
+                                    <polyline id="Stroke-12" stroke="#5C6BDD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="20.8333333 30.8333333 24.1666667 30.8333333 24.1666667 34.1666667"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
