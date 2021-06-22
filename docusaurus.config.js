@@ -123,6 +123,9 @@ module.exports = {
       copyright: `#MakeInIndia © ${new Date().getFullYear()} Shopsense Retail Technologies`,
     },
   },
+  plugins: [
+    require.resolve('@cmfcmf/docusaurus-search-local')
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
