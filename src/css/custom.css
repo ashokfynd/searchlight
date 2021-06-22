@@ -34,3 +34,8 @@
 .footer {
   background-color: #ededed;
 }
+
+.footer__title, .footer__items {
+  margin-left: 33%;
+}
+

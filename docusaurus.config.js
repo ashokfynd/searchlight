@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/searchlight/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/fp-logo.png',
   organizationName: 'ashokfynd', // Usually your GitHub org/user name.
   projectName: 'searchlight', // Usually your repo name.
   themeConfig: {
@@ -18,7 +18,7 @@ module.exports = {
     navbar: {
       logo: {
         alt: 'My Site Logo',
-        src: 'img/documentation-logo.png',
+        src: 'img/fp-logo.png',
       },
       items: [
         {
