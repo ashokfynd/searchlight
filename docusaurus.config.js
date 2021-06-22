@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Learning Hub',
   tagline: 'A repository of user documentation and tutorials for using Fynd Platform',
-  url: 'https://ashokfynd.github.io/searchlight',
+  url: 'https://ashokfynd.github.io',
   baseUrl: '/searchlight/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -26,6 +26,11 @@ module.exports = {
           docId: 'introduction/what-is-fp',
           position: 'left',
           label: 'User Guide',
+        },
+        {
+          href: 'https://platform.fynd.com',
+          position: 'right',
+          label: 'Join Fynd Platform',
         },
         // {to: '/blog', label: 'Blog', position: 'left'}
         // {
