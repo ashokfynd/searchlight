@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Online User Guides',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('../../static/img/1f.svg').default,
     description: (
       <>
         Comprehensive documentation for taking the leap of success on Fynd Platform.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Instructional Videos',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/2b.svg').default,
     description: (
       <>
         Video tutorials for utilizing the full potential of Fynd Platform, independently.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Support and Assistance',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/3a.svg').default,
     description: (
       <>
         Expert assistance and resources to help you take your business to the peak.
