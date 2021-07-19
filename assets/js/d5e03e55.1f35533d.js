@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[306],{5906:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/searchlight/blog/tags","slug":"zeta","name":"zeta","count":1,"permalink":"/searchlight/blog/tags/zeta"}')}}]);
